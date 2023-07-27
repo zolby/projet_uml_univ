@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?PowerDesigner signature="Workspace" version="16.6.10.6261"?>
+<!-- Veuillez ne pas modifier ce fichier -->
+
+<Workspace>
+	<Local Expanded="Yes">
+		<Model ID="{8C7A7A6E-52BA-4BED-8C4C-E9D90A3DD12A}" Loaded="No" Name="Diagramme de séquence" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="file:///%_SHARED%/Projet_UML_Univ_Wemtenga/Diagramme de séquence.moo"/>
+		<Model ID="{7D715BAA-31B5-4ACA-ADE6-3674B1CCB9C4}" Name="Diagramme de séquence 5" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="file:///%_SHARED%/Projet_UML_Univ_Wemtenga/Diagramme de séquence 5.moo"/>
+		<Model ID="{68C73658-4252-4F78-A2F3-EC3658DF6832}" Name="Diagramme de séquence 2" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="file:///%_SHARED%/Projet_UML_Univ_Wemtenga/Diagramme de séquence 2.moo"/>
+		<Model ID="{E461B76E-8FFA-438A-A536-BDB7185FC0EC}" Name="Diagramme de séquence 3" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="file:///%_SHARED%/Projet_UML_Univ_Wemtenga/Diagramme de séquence 3.moo"/>
+		<Model ID="{8602B7AE-514D-4AD2-A954-70915B48A51B}" Name="Diagramme de séquence 4" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="file:///%_SHARED%/Projet_UML_Univ_Wemtenga/Diagramme de séquence 4.moo"/>
+		<Model Expanded="Yes" ID="{D57165D1-1F50-44F4-96E7-4E2AF4B53001}" Name="Projet_UML_Univ_Wemtenga" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="file:///%_SHARED%/Projet_UML_Univ_Wemtenga/Projet_UML_Univ_Wemtenga.prj"/>
+	</Local>
+	<BrowserModule Name="Repository"/>
+</Workspace>
